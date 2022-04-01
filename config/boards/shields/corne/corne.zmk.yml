@@ -11,6 +11,7 @@ features:
   - keys
   - display
   - underglow
+  - encoder
 siblings:
   - corne_left
   - corne_right
