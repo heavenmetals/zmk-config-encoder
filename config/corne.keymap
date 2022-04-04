@@ -48,7 +48,7 @@
 // | SHFT |     |  <  |  ^  |  v  |  >  |   |  <  |  ^   |  v  |  >   |  \  | SHFT |
 //                    | GUI |     | SPC |   | ENT |      | GUI |
                         bindings = <
-&kp  ESC  &kp TILDE &kp PIPE &kp GRAVE &kp END   &kp LBRC      &kp RBRC   &resetE  &ext_power EP_TOG  &bootloader  &kp K_FORWARD &kp BSPC
+&kp  ESC  &kp TILDE &kp PIPE &kp GRAVE &kp END   &kp LBRC      &kp RBRC   &reset  &ext_power EP_TOG  &bootloader  &bt BT_CLR &kp BSPC
 &kp LCTRL &trans    &trans   &trans    &trans    &kp LBKT      &kp RBKT   &kp F3    &trans             &kp RCTRL   &kp RALT      &kp DEL
 &kp LSHFT &trans    &kp LEFT &kp UP    &kp DOWN  &kp RIGHT     &kp LEFT   &kp DOWN  &kp UP             &kp RIGHT   &kp RGUI      &trans
                     &kp LGUI  &trans    &kp SPACE     &kp RET    &trans    &trans
